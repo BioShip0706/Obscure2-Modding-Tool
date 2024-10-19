@@ -36,6 +36,7 @@
 2. Open the program and browse the game location
 3. Ready to go!
 
+[![Watch the video](MODDINGTOOL.png)](https://www.youtube.com/watch?v=74YFKmFuHwc)
 ---
 
 ### Please report any bug on YouTube/NexusMods/Discord.
