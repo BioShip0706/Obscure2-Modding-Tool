@@ -1,4 +1,5 @@
 ## Join our Discord! [DISCORD HERE](https://discord.gg/NUEZQU64FN)
+## NexusMods link [HERE](https://www.nexusmods.com/obscure2/mods/2)
 
 ---
 
@@ -40,8 +41,9 @@
 ---
 
 ### Please report any bug on YouTube/NexusMods/Discord.
-Post any suggestion on the "Forum" tab by replying.
+Post any suggestion on the "Forum" tab on NexusMods by replying.
 
 ---
 
-## Join our Discord! [DISCORD HERE](DISCORD HERE)
+## Join our Discord! [DISCORD HERE](https://discord.gg/NUEZQU64FN)
+## NexusMods link [HERE](https://www.nexusmods.com/obscure2/mods/2)
