@@ -1,3 +1,5 @@
+### Note:
+**The program from the source code does not work by itself. Please download the [release version](https://github.com/BioShip0706/Obscure2-Modding-Tool/releases).**
 ## Join our Discord! [DISCORD HERE](https://discord.gg/NUEZQU64FN)
 ## NexusMods link [HERE](https://www.nexusmods.com/obscure2/mods/2)
 
@@ -38,8 +40,10 @@
 3. Ready to go!
 
 [![Watch the video](MODDINGTOOL.png)](https://www.youtube.com/watch?v=74YFKmFuHwc)
----
 
+### Note:
+**The program from the source code does not work by itself. Please download the [release version](https://github.com/BioShip0706/Obscure2-Modding-Tool/releases).**
+---
 ### Please report any bug on YouTube/NexusMods/Discord.
 Post any suggestion on the "Forum" tab on NexusMods by replying.
 
